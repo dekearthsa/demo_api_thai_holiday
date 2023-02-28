@@ -1,0 +1,128 @@
+{
+  "result": {
+    "api": "API_V2.FIHolidays",
+    "timestamp": "2023-02-28 10:52:37",
+    "data": [
+      {
+        "HolidayWeekDay": "Monday",
+        "HolidayWeekDayThai": "วันจันทร์",
+        "Date": "2023-01-02",
+        "DateThai": "02/01/2566",
+        "HolidayDescription": "Substitution for New Year's Eve and New Year's Day (Saturday 31st  December 2022 and Saturday 1st January 2023)",
+        "HolidayDescriptionThai": "ชดเชยวันสิ้นปีและวันขึ้นปีใหม่ (วันเสาร์ที่ 31 ธันวาคม 2565 และวันอาทิตย์ที่ 1 มกราคม 2566)"
+      },
+      {
+        "HolidayWeekDay": "Monday",
+        "HolidayWeekDayThai": "วันจันทร์",
+        "Date": "2023-03-06",
+        "DateThai": "06/03/2566",
+        "HolidayDescription": "Makha Bucha Day",
+        "HolidayDescriptionThai": "วันมาฆบูชา"
+      },
+      {
+        "HolidayWeekDay": "Thursday",
+        "HolidayWeekDayThai": "วันพฤหัสบดี",
+        "Date": "2023-04-06",
+        "DateThai": "06/04/2566",
+        "HolidayDescription": "Chakri Memorial Day",
+        "HolidayDescriptionThai": "วันพระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราชและวันที่ระลึกมหาจักรีบรมราชวงศ์"
+      },
+      {
+        "HolidayWeekDay": "Thursday",
+        "HolidayWeekDayThai": "วันพฤหัสบดี",
+        "Date": "2023-04-13",
+        "DateThai": "13/04/2566",
+        "HolidayDescription": "Songkran Festival",
+        "HolidayDescriptionThai": "วันสงกรานต์"
+      },
+      {
+        "HolidayWeekDay": "Friday",
+        "HolidayWeekDayThai": "วันศุกร์",
+        "Date": "2023-04-14",
+        "DateThai": "14/04/2566",
+        "HolidayDescription": "Songkran Festival",
+        "HolidayDescriptionThai": "วันสงกรานต์"
+      },
+      {
+        "HolidayWeekDay": "Monday",
+        "HolidayWeekDayThai": "วันจันทร์",
+        "Date": "2023-05-01",
+        "DateThai": "01/05/2566",
+        "HolidayDescription": "National Labour Day",
+        "HolidayDescriptionThai": "วันแรงงานแห่งชาติ"
+      },
+      {
+        "HolidayWeekDay": "Thursday",
+        "HolidayWeekDayThai": "วันพฤหัสบดี",
+        "Date": "2023-05-04",
+        "DateThai": "04/05/2566",
+        "HolidayDescription": "Coronation Day",
+        "HolidayDescriptionThai": "วันฉัตรมงคล"
+      },
+      {
+        "HolidayWeekDay": "Monday",
+        "HolidayWeekDayThai": "วันจันทร์",
+        "Date": "2023-06-05",
+        "DateThai": "05/06/2566",
+        "HolidayDescription": "Substitution for  H.M. Queen Suthida Bajrasudhabimalalakshana’s Birthday and Wisakha Bucha Day (Saturday 3rd June 2023)",
+        "HolidayDescriptionThai": "ชดเชยวันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสุทิดา พัชรสุธาพิมลลักษณ พระบรมราชินี และวันวิสาขบูชา (วันเสาร์ที่ 3 มิถุนายน 2566)"
+      },
+      {
+        "HolidayWeekDay": "Friday",
+        "HolidayWeekDayThai": "วันศุกร์",
+        "Date": "2023-07-28",
+        "DateThai": "28/07/2566",
+        "HolidayDescription": "H.M. King Maha Vajiralongkorn Phra Vajiraklaochaoyuhua’s Birthday",
+        "HolidayDescriptionThai": "วันเฉลิมพระชนมพรรษา พระบาทสมเด็จพระเจ้าอยู่หัว"
+      },
+      {
+        "HolidayWeekDay": "Tuesday",
+        "HolidayWeekDayThai": "อังคาร",
+        "Date": "2023-08-01",
+        "DateThai": "01/08/2566",
+        "HolidayDescription": "Asarnha Bucha Day",
+        "HolidayDescriptionThai": "วันอาสาฬหบูชา"
+      },
+      {
+        "HolidayWeekDay": "Monday",
+        "HolidayWeekDayThai": "วันจันทร์",
+        "Date": "2023-08-14",
+        "DateThai": "14/08/2566",
+        "HolidayDescription": "Substitution for H.M. Queen Sirikit The Queen Mother’s Birthday / Mother’s Day (Saturday 12th August 2023)",
+        "HolidayDescriptionThai": "ชดเชยวันเฉลิมพระชนมพรรษา สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง และวันแม่แห่งชาติ (วันเสาร์ที่ 12 สิงหาคม 2566)"
+      },
+      {
+        "HolidayWeekDay": "Friday",
+        "HolidayWeekDayThai": "วันศุกร์",
+        "Date": "2023-10-13",
+        "DateThai": "13/10/2566",
+        "HolidayDescription": "H.M. King Bhumibol Adulyadej The Great Memorial Day",
+        "HolidayDescriptionThai": "วันคล้ายวันสวรรคต พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร"
+      },
+      {
+        "HolidayWeekDay": "Monday",
+        "HolidayWeekDayThai": "วันจันทร์",
+        "Date": "2023-10-23",
+        "DateThai": "23/10/2566",
+        "HolidayDescription": "Chulalongkorn Day",
+        "HolidayDescriptionThai": "วันปิยมหาราช"
+      },
+      {
+        "HolidayWeekDay": "Tuesday",
+        "HolidayWeekDayThai": "อังคาร",
+        "Date": "2023-12-05",
+        "DateThai": "05/12/2566",
+        "HolidayDescription": "H.M. King Bhumibol Adulyadej The Great’s Birthday/ National Day / Father’s Day",
+        "HolidayDescriptionThai": "วันคล้ายวันพระบรมราชสมภพ พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร วันชาติ และวันพ่อแห่งชาติ"
+      },
+      {
+        "HolidayWeekDay": "Monday",
+        "HolidayWeekDayThai": "วันจันทร์",
+        "Date": "2023-12-11",
+        "DateThai": "11/12/2566",
+        "HolidayDescription": "Substitution for Constitution Day (Sunday 10th December 2023)",
+        "HolidayDescriptionThai": "ชดเชยวันรัฐธรรมนูญ (วันอาทิตย์ที่ 10 ธันวาคม 2566)"
+      }
+    ]
+  }
+}
